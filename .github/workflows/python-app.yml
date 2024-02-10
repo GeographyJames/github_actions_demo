@@ -13,7 +13,8 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  test_my_app:
+  
 
     runs-on: ubuntu-latest
 
